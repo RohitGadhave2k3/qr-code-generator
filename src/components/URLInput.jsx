@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // // src/components/URLInput.js
 // import React from 'react';
 // import { Button, FormControl, InputGroup } from 'react-bootstrap';
@@ -55,6 +55,4 @@ const URLInput = ({ url, setUrl, handleGenerate }) => {
 };
 
 export default URLInput;
-=======
 
->>>>>>> 43130c2ee655f56639d8fdfd056fa5bf945dab02
