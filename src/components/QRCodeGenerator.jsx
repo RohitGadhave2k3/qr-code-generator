@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // // src/components/QRCodeGenerator.js
 // import React, { useState } from 'react';
 // import QRCode from 'qrcode';
@@ -83,3 +84,6 @@ const QRCodeGenerator = ({ qrCode, clearUrl, alert }) => {
 };
 
 export default QRCodeGenerator;
+=======
+
+>>>>>>> 43130c2ee655f56639d8fdfd056fa5bf945dab02

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // src/components/Alert.js
 import React from 'react';
 
@@ -6,3 +7,6 @@ const Alert = ({ message }) => {
 };
 
 export default Alert;
+=======
+
+>>>>>>> 43130c2ee655f56639d8fdfd056fa5bf945dab02
